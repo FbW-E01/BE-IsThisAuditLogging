@@ -9,7 +9,79 @@
 
 > [2021-09-06T20:11:22Z] /secret accessed
 
-All log entries need to be contained in an array.
+- All log entries need to be contained in an array.
 
-**BONUS** Add an endpoint that returns all the entries in your access log.
-**BONUS** Your endpoints should return a response slowly. Wait between 1 and 5 seconds before responding to requests. Those frontends are getting too fast anyways, we need to slow them down!
+- **BONUS** Add an endpoint that returns all the entries in your access log.
+- **BONUS** Your endpoints should return a response slowly. Wait between 1 and 5 seconds before responding to requests. Those frontends are getting too fast anyways, we need to slow them down!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🍌🍌🍌🍌🍌
